@@ -10,6 +10,5 @@ Full Stack Engineer with diverse experience in application development, web tech
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HilalMuhamed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 
