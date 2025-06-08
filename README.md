@@ -1,12 +1,6 @@
 # 💫 About Me
 I'm a **Full Stack Engineer** with a passion for building real-world projects that combine creativity and problem-solving. From developing intelligent monitoring systems and compilers to full-stack booking platforms and cross-platform games, I enjoy working across the stack and pushing myself with every project.
 
-I'm especially passionate about:
-- 🚀 Turning ideas into fully working products  
-- 🎮 Making games that are fun and technically challenging  
-- 🧠 Exploring AI, automation, and emerging technologies  
-- 🧩 Tackling tough problems through competitive coding and hands-on projects  
-
 I’m always exploring new tools, experimenting with ideas, and learning by building.
 
 ---
