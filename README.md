@@ -1,6 +1,5 @@
 # 💫 About Me:
-Full Stack Engineer with diverse experience in application development, web technologies, game development, and AI<br>projects. Passionate about problem solving and constantly learning new technologies.
-
+Full Stack Engineer with hands-on experience in application development, web technologies, AI projects, and game development. Passionate about problem-solving, building real-world projects, and constantly exploring new technologies. From compilers and monitoring systems to cross-platform games and full-stack booking platforms, I enjoy taking on complex projects that push me to think and build better.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hilal-muhammed-n/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hilal88877@gmail.com) 
