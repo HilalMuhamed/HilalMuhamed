@@ -20,8 +20,6 @@ I’m always exploring new tools, experimenting with ideas, and learning by buil
 ![Tesseract OCR](https://img.shields.io/badge/Tesseract-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396.svg?style=for-the-badge&logo=java&logoColor=white)
-![Servlet](https://img.shields.io/badge/Servlet-007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 
